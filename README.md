@@ -11,4 +11,6 @@ Implements a particle system set in a 4d vector field loop.
   7. Profit
 
 **What does it do?**  
-Here are examples:
+Here are examples:  
+!()[https://github.com/ericeschnei/ChaoticGifMaker/blob/master/output.gif?raw=true]
+!()[https://github.com/ericeschnei/ChaoticGifMaker/blob/master/output3.gif?raw=true
