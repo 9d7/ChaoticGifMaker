@@ -12,5 +12,5 @@ Implements a particle system set in a 4d vector field loop.
 
 **What does it do?**  
 Here are examples:  
-!()[https://github.com/ericeschnei/ChaoticGifMaker/blob/master/output.gif?raw=true]
-!()[https://github.com/ericeschnei/ChaoticGifMaker/blob/master/output3.gif?raw=true
+!(Ooh, wacky!)[https://github.com/ericeschnei/ChaoticGifMaker/blob/master/output.gif?raw=true]
+!(Thank you Eric, very cool!)[https://github.com/ericeschnei/ChaoticGifMaker/blob/master/output3.gif?raw=true
