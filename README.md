@@ -1,6 +1,6 @@
 # ChaoticGifMaker
 Implements a particle system set in a 4d vector field loop.
-*To use:*
+**To use:**
   1. Download all files and place them into a new Processing sketch.
   2. Tweak the parameters, and when you're happy, set the `RENDER` to `true`.
   3. Wait for `Done!` to appear in the console.
