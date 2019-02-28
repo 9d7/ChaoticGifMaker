@@ -8,7 +8,6 @@ Implements a particle system set in a 4d vector field loop.
   4. Wait for `Done!` to appear in the console.
   5. Navigate into the folder where your output is stored (by default, the folder named "output" in your sketch directory)
   6. Compile into a gif with `ffmpeg -i loop-%3d.png output.gif`
-  7. Profit
 
 **What does it do?**  
 Here are examples:  
